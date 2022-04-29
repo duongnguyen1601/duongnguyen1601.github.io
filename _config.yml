@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duong T. A. Nguyen"
+title                    : "Duong Nguyen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Duong T. A. Nguyen"
-  avatar           : "profile.png"
+  avatar           : "IMG_6769.jpg"
   bio              : "blabla"
   location         : "Location"
   employer         :
