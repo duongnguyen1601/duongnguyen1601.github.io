@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV
-======
+
 Download [CV](http://duongnguyen1601.github.io/files/CV.pdf)
 
 Education
