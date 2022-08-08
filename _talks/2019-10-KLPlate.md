@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-10-KLPlate
 venue: "Applied Mathematics Seminar, University of Louisiana at Lafayette"
-date: 2019-10
+date: 2019-10-17
 location: "Lafayette, LA"
 ---
