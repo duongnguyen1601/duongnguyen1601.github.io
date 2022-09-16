@@ -1,9 +1,9 @@
 ---
-title: "Distributed Nash Equilibrium Seeking over Time-Varying Directed Communication Networks"
+title: "AB/Push-Pull Method for Distributed Optimization in Time-Varying Directed Networks"
 collection: publications
 permalink: /publication/2022-09-14-ABPushPull
 excerpt: 'In this paper, we study the distributed optimization problem for a system of agents embedded in time-varying directed communication networks. Each agent has its own cost function and agents cooperate to determine the global decision that minimizes the summation of all individual cost functions. We consider the so-called push-pull gradient-based algorithm (termed as AB/Push-Pull) which employs both row- and column-stochastic weights simultaneously to track the optimal decision and the gradient of the global cost while ensuring consensus and optimality. We show that the algorithm converges linearly to the optimal solution over a time-varying directed network for a constant stepsize when the agent’s cost function is smooth and strongly convex. The linear convergence of the method has been shown in Saadatniaki et al. (2020), where the multi-step consensus contraction parameters for row- and column- stochastic mixing matrices are not directly related to the underlying graph structure, and the explicit range for the stepsize value is not provided. With respect to Saadatniaki et al. (2020), the novelty of this work is twofold: (1) we establish the one-step consensus contraction for both row- and column-stochastic mixing matrices with the contraction parameters given explicitly in terms of the graph diameter and other graph properties; and (2) we provide explicit upper bounds for the stepsize value in terms of the properties of the cost functions, the mixing matrices, and the graph connectivity structure.'
-date: 2022-01-07
+date: 2022-09-14
 venue: '[Under review] Optimization Methods and Software'
 paperurl: 'http://duongnguyen1601.github.io/files/AB_Push_Pull.pdf'
 ---
