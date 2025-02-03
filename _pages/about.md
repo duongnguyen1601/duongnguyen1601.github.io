@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electrical Engineering at Arizona State University working under the supervision of [Prof. Duong Tung Nguyen](https://scholar.google.ca/citations?user=EVWYEMQAAAAJ&hl=en). I am also working closely with [Prof. Angelia Nedich](https://scholar.google.com/citations?user=86PxxsoAAAAJ&hl=en). My current research interests include distributed optimization, operations research and game theory. The research focuses on developing mathematical models for decision-making under uncertainty, fair and privacy-preserving mechanism designs and distributed algorithms for large-scale network in multi-agent systems. Research applications include cloud/edge computing, electric vehicles, healthcare, and large-scale multi-agent systems.
+I am a Ph.D. Candidate in Electrical Engineering at Arizona State University. My current research interests include Distributed Optimization, Operations Research and Game Theory. The research focuses on developing mathematical models for decision-making under uncertainty, fair and privacy-preserving mechanism designs and distributed algorithms for large-scale network in multi-agent systems. Research applications include cloud/edge computing, electric vehicles, healthcare, and large-scale multi-agent systems.
 
 I received my M. Sc. degree from the University of Louisiana at Lafayette in Applied Mathematics. My research thesis focused on the development, analysis, and implementation of novel algorithms for a generalized Kirchhoff-Love plate model. The plate solvers developed for this research project can be used together with an existing fluid solver to simulate more interesting fluid-structure interaction problems, such as blood flow in an artery.
 
